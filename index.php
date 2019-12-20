@@ -1,5 +1,5 @@
 <?php
 
-echo "Lula 2022!"
+echo "Fora fascismo!"
 
 ?>
